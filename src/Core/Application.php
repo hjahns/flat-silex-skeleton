@@ -2,6 +2,7 @@
 namespace Src\Core;
 
 use Silex\Application as SilexApplication;
+use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\HttpFoundation\Request;
 
 class Application extends SilexApplication
