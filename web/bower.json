@@ -1,0 +1,24 @@
+{
+  "name": "flat-silex-skeleton",
+  "authors": [
+    "Horst Jahns <horstjahns@gmail.com>"
+  ],
+  "description": "simple silex app using twig templates, bootstrap/bootswatch",
+  "main": "index.php",
+  "keywords": [
+    "silex",
+    "skeleton"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootswatch-dist": "paper"
+  }
+}

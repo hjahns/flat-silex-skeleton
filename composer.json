@@ -1,0 +1,20 @@
+{
+    "name": "jahns/flat-silex-skeleton",
+    "description": "flat silex skeleton using twig and bootswatch",
+    "type": "project",
+    "require": {
+        "silex/silex": "^2.0",
+        "twig/twig": "^1.28"
+    },
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Horst Jahns",
+            "email": "horstjahns@gmail.com"
+        }
+    ]
+}
