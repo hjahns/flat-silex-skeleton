@@ -19,7 +19,7 @@ $ bower install
 ```sh
 <VirtualHost *:80>
     DocumentRoot "C:/xampp/htdocs/flat-silex-skeleton/web"
-    ServerName www.jshero.local
+    ServerName www.flat-silex-skeleton.local
 	DirectoryIndex index.php
 	<Directory "C:/xampp/htdocs/flat-silex-skeleton/web">
 			Options Indexes FollowSymLinks MultiViews
