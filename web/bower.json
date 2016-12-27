@@ -3,7 +3,7 @@
   "authors": [
     "Horst Jahns <horstjahns@gmail.com>"
   ],
-  "description": "simple silex app using twig templates, bootstrap/bootswatch",
+  "description": "simple silex app using twig templates, semantic ui",
   "main": "index.php",
   "keywords": [
     "silex",
@@ -19,6 +19,6 @@
     "tests"
   ],
   "dependencies": {
-    "bootswatch-dist": "paper"
+    "semantic-ui": "*"
   }
 }
